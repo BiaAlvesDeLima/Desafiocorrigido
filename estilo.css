@@ -1,0 +1,33 @@
+.cor-de-fundo{
+  background-color: #FFE6FF
+}
+.tamanho{
+  width: 500px;
+  height: 200px;
+}
+.margem{
+  margin: 80px;
+}
+.borda{
+  margin: 0px;
+  border: 20px solid #FFA7FF;
+}
+.preenchimento{
+  padding: 80px;
+}
+a{
+  text-decoration: none;
+  padding: 5px;
+  border-radius: 20px;
+  color: #000000;
+}
+a:hover{
+background-color: #E8D1DC;
+color: #000000;
+}
+.cor-de-fundo2{
+background-color: #FFEFE6
+}
+.alinhamento{
+  text-align: center;
+}
